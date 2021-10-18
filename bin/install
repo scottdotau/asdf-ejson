@@ -52,12 +52,11 @@ install_tool() {
 }
 
 get_platform() {
-    if [[ "$(uname)" == "Linux" ]]
-    then
-        echo "linux-amd64"
-    else
-        echo "darwin-amd64"
-    fi
+  if [[ "$(uname)" == "Linux" ]]; then
+    echo "linux-amd64"
+  else
+    echo "darwin-amd64"
+  fi
 }
 
 get_filename() {

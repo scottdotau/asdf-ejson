@@ -3,7 +3,7 @@
 # asdf-ejson [![Build](https://github.com/cipherstash/asdf-ejson/actions/workflows/build.yml/badge.svg)](https://github.com/cipherstash/asdf-ejson/actions/workflows/build.yml) [![Lint](https://github.com/cipherstash/asdf-ejson/actions/workflows/lint.yml/badge.svg)](https://github.com/cipherstash/asdf-ejson/actions/workflows/lint.yml)
 
 
-[ejson](https://github.com/Shopity/ejson) plugin for the [asdf version manager](https://asdf-vm.com).
+[ejson](https://github.com/Shopify/ejson) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
